@@ -18,8 +18,17 @@ const books = [
     { "id": 17, "title": "The Divine Comedy", "author": "Dante Alighieri", "genre": "Epic", "price": 13.99 },
     { "id": 18, "title": "Frankenstein", "author": "Mary Shelley", "genre": "Gothic Fiction", "price": 11.99 },
     { "id": 19, "title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "genre": "Philosophical Fiction", "price": 9.99 },
-    { "id": 20, "title": "One Hundred Years of Solitude", "author": "Gabriel García Márquez", "genre": "Magical Realism", "price": 15.99 }
-]
+    { "id": 20, "title": "One Hundred Years of Solitude", "author": "Gabriel García Márquez", "genre": "Magical Realism", "price": 15.99 },
+    { "id": 21, "title": "Don Quixote", "author": "Miguel de Cervantes", "genre": "Classic Fiction", "price": 13.50 },
+    { "id": 22, "title": "The Alchemist", "author": "Paulo Coelho", "genre": "Adventure", "price": 10.99 },
+    { "id": 23, "title": "The Book Thief", "author": "Markus Zusak", "genre": "Historical Fiction", "price": 12.50 },
+    { "id": 24, "title": "Ulysses", "author": "James Joyce", "genre": "Modernist Fiction", "price": 17.99 },
+    { "id": 25, "title": "The Road", "author": "Cormac McCarthy", "genre": "Post-apocalyptic Fiction", "price": 11.99 },
+    { "id": 26, "title": "The Grapes of Wrath", "author": "John Steinbeck", "genre": "Historical Fiction", "price": 13.99 },
+    { "id": 27, "title": "Slaughterhouse-Five", "author": "Kurt Vonnegut", "genre": "Science Fiction", "price": 10.99 },
+    { "id": 28, "title": "The Old Man and the Sea", "author": "Ernest Hemingway", "genre": "Classic Fiction", "price": 9.99 },
+    { "id": 29, "title": "Beloved", "author": "Toni Morrison", "genre": "Historical Fiction", "price": 12.99 },
+    { "id": 30, "title": "The Stranger", "author": "Albert Camus", "genre": "Philosophical Fiction", "price": 9.99 }
+];
 
-export default books
-  
+export default books;
