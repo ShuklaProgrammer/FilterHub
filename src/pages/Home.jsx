@@ -20,8 +20,8 @@ import { useTheme } from "@/components/theme-provider"; // shadcn component
 const Home = () => {
   const { setTheme } = useTheme();
   return (
-    <section className="flex items-center justify-center my-10">
-      <main className="w-[80%] rounded-lg space-y-5">
+    <section className="flex items-center justify-center my-4">
+      <main className="sm:w-[80%] w-[90%] rounded-lg space-y-5">
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
             <Button variant="outline" size="icon">
