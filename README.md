@@ -9,7 +9,7 @@ Now the File or Folder Structure of the project:-
 2. In src folder there are three new folder created by me: components, data, pages, redux.
 3. In components folder I have mycomponents and the ui folder which contains the shadcn components.
 4. In data folder I have added the data.js that contains collection of 30 books.
-5. In pages folder I have only 1 file that is Hone.jsx. Home.jsx will render on the home or "/" page.
+5. In pages folder I have only 1 file that is Home.jsx. Home.jsx will render on the home or "/" page.
 6. In redux folder I have features folder and store.js file. The features folder contains two slice i.e. itemSlice.js and searchSlice.js
 
 
